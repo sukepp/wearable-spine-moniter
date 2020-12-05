@@ -4,12 +4,16 @@
         "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\background.jpg"
     },
     {
-        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_list_tubiao.jpg.flat",
-        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\list_tubiao.jpg"
+        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_img1.png.flat",
+        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\img1.png"
     },
     {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
         "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_list_tubiao.jpg.flat",
+        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\list_tubiao.jpg"
     },
     {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_dropdown_list_selector.xml.flat",
@@ -18,6 +22,14 @@
     {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_but2.xml.flat",
         "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\but2.xml"
+    },
+    {
+        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_img5.png.flat",
+        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\img5.png"
     },
     {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_bg_progress.png.flat",
@@ -30,6 +42,14 @@
     {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_background_login_div.xml.flat",
         "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\background_login_div.xml"
+    },
+    {
+        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_bg_login_button_press.xml.flat",
@@ -60,8 +80,16 @@
         "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\t.png"
     },
     {
+        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_dropdown.png.flat",
         "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\dropdown.png"
+    },
+    {
+        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_bg.jpeg.flat",
+        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\bg.jpeg"
     },
     {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_backgroub.jpg.flat",
@@ -70,6 +98,10 @@
     {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_shape_progressbar_bg.xml.flat",
         "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\shape_progressbar_bg.xml"
+    },
+    {
+        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_img4.png.flat",
+        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\img4.png"
     },
     {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_bg_login.jpg.flat",
@@ -84,6 +116,14 @@
         "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\layout\\device_list.xml"
     },
     {
+        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_btn_amount.xml.flat",
+        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\btn_amount.xml"
+    },
+    {
+        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_bg_amount_layout.xml.flat",
+        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\bg_amount_layout.xml"
+    },
+    {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\layout_activity_bluetooth_chat_layout.xml.flat",
         "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\layout\\activity_bluetooth_chat_layout.xml"
     },
@@ -94,6 +134,10 @@
     {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_bac.png.flat",
         "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\bac.png"
+    },
+    {
+        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_img3.png.flat",
+        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\img3.png"
     },
     {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_gg.jpg.flat",
@@ -136,12 +180,12 @@
         "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\checkoff.png"
     },
     {
-        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_mainbutton_pressed.xml.flat",
-        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\mainbutton_pressed.xml"
-    },
-    {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_butto.xml.flat",
         "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\butto.xml"
+    },
+    {
+        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_mainbutton_pressed.xml.flat",
+        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\mainbutton_pressed.xml"
     },
     {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_ee.jpg.flat",
@@ -158,6 +202,10 @@
     {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_receicer.xml.flat",
         "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\receicer.xml"
+    },
+    {
+        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_buttonstyle.xml.flat",
+        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\buttonstyle.xml"
     },
     {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\menu_option_menu.xml.flat",
@@ -192,6 +240,10 @@
         "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\bluettothbutton_pressed.xml"
     },
     {
+        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_img2.png.flat",
+        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\img2.png"
+    },
+    {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_checkon.png.flat",
         "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\checkon.png"
     },
@@ -202,6 +254,14 @@
     {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_but.xml.flat",
         "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\but.xml"
+    },
+    {
+        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_shape_progressbar_mini.xml.flat",
@@ -218,5 +278,13 @@
     {
         "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_sou.xml.flat",
         "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\sou.xml"
+    },
+    {
+        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\res\\merged\\debug\\drawable_divider.xml.flat",
+        "source": "D:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\src\\main\\res\\drawable\\divider.xml"
     }
 ]

@@ -1,4 +1,4 @@
-#Sat Dec 05 16:40:57 CST 2020
+#Sun Dec 06 02:34:07 CST 2020
 base.0=D\:\\Work\\Academic\\Trimister_04\\COMP47570_Ubiquitous_Computing\\Project\\Stage_03\\Code\\Other\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

@@ -39,6 +39,9 @@ import android.widget.CompoundButton.OnCheckedChangeListener;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
+import android.widget.ImageView;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import com.loumeng.Bluetooth.BluetoothChatService;
 import com.loumeng.Bluetooth.Data_syn;
 import com.loumeng.Bluetooth.DeviceListActivity;
@@ -90,6 +93,13 @@ public class BluetoothChat extends Activity {
 	// 声明button按钮
 	private Button mSendButton;
 
+	private EditText etAmount;
+	private Button btnDecrease;
+	private Button btnIncrease;
+
+	private int level = 1; //current level
+	private int limit = 5; //level limit
+
 	private Button search;
 	private Button disc;
 	// 用来保存存储的文件名
@@ -114,6 +124,8 @@ public class BluetoothChat extends Activity {
 	private boolean outhex = true;
 	private boolean auto = false;
 
+	ImageView imageView;
+	private Bitmap bitmap;
 
 	@Override
  	public void onCreate(Bundle savedInstanceState) {
@@ -156,6 +168,8 @@ public class BluetoothChat extends Activity {
 				ensureDiscoverable();
 			}
 		});
+
+		imageView = findViewById(R.id.main_pic);
 	}
 
 	public void search(){
@@ -179,6 +193,10 @@ public class BluetoothChat extends Activity {
 		disc = (Button) findViewById(R.id.discoverable1);
 
 		mSendButton = (Button) findViewById(R.id.button_send);
+
+		etAmount = (EditText) findViewById(R.id.etAmount);
+		btnDecrease = (Button) findViewById(R.id.btnDecrease);
+		btnIncrease = (Button) findViewById(R.id.btnIncrease);
 		//获取选择控件的值
 
 		// 设置custom title
@@ -302,11 +320,32 @@ public class BluetoothChat extends Activity {
 		mSendButton.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
 				// 使用编辑文本小部件的内容发送消息
-				TextView view = (TextView) findViewById(R.id.edit_text_out);
+//				TextView view = (TextView) findViewById(R.id.edit_text_out);
 
-					String message = view.getText().toString();
-					sendMessage(message);
+//				String message = view.getText().toString();
+				String message = "f" + etAmount.getText().toString() + "e";
+				sendMessage(message);
 
+			}
+		});
+
+		btnDecrease.setOnClickListener(new OnClickListener() {
+			public void onClick(View v) {
+				if (level > 1) {
+					level--;
+
+					etAmount.setText(String.valueOf(level));
+				}
+			}
+		});
+
+		btnIncrease.setOnClickListener(new OnClickListener() {
+			public void onClick(View v) {
+				if (level < limit) {
+					level++;
+
+					etAmount.setText(String.valueOf(level));
+				}
 			}
 		});
 
@@ -329,14 +368,23 @@ public class BluetoothChat extends Activity {
 		// 检测是否有字符串发送
 		if (message.length() > 0) {
 			// 获取 字符串并告诉BluetoothChatService发送
-			if (outhex == true) {
-				byte[] send = Data_syn.hexStr2Bytes(message);
-				mChatService.write(send);//回调service
+//			if (outhex == true) {
+//				Toast.makeText(this, "sukepp: hex",
+//						Toast.LENGTH_SHORT).show();
+//				byte[] send = Data_syn.hexStr2Bytes(message);
+//				mChatService.write(send);//回调service
+//
+//			} else if (outhex == false) {
+//				Toast.makeText(this, message,
+//						Toast.LENGTH_SHORT).show();
+//				byte[] send = message.getBytes();
+//				mChatService.write(send);//回调service
+//			}
+//			Toast.makeText(this, message,
+//					Toast.LENGTH_SHORT).show();
+			byte[] send = message.getBytes();
+			mChatService.write(send);//回调service
 
-			} else if (outhex == false) {
-				byte[] send = message.getBytes();
-				mChatService.write(send);//回调service
-			}
 			// 清空输出缓冲区
 			mOutStringBuffer.setLength(0);
 		}
@@ -432,6 +480,28 @@ public class BluetoothChat extends Activity {
 					countin += readMessage.length();
 					incount.setText("" + countin);
 				}
+
+				switch (readBuf[0]) {
+					case 1:
+						bitmap = BitmapFactory.decodeResource(getResources(), R.drawable.img1);
+						break;
+					case 2:
+						bitmap = BitmapFactory.decodeResource(getResources(), R.drawable.img2);
+						break;
+					case 3:
+						bitmap = BitmapFactory.decodeResource(getResources(), R.drawable.img3);
+						break;
+					case 4:
+						bitmap = BitmapFactory.decodeResource(getResources(), R.drawable.img4);
+						break;
+					case 5:
+						bitmap = BitmapFactory.decodeResource(getResources(), R.drawable.img5);
+						break;
+					default:
+						bitmap = BitmapFactory.decodeResource(getResources(), R.drawable.img1);
+						break;
+				}
+				imageView.setImageBitmap(bitmap);
 				break;
 			case MESSAGE_DEVICE_NAME:
 				// 保存已连接设备的名称
