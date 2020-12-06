@@ -92,6 +92,7 @@ public class BluetoothChat extends Activity {
 
 	// 声明button按钮
 	private Button mSendButton;
+	private Button calibrate;
 
 	private EditText etAmount;
 	private Button btnDecrease;
@@ -193,6 +194,7 @@ public class BluetoothChat extends Activity {
 		disc = (Button) findViewById(R.id.discoverable1);
 
 		mSendButton = (Button) findViewById(R.id.button_send);
+		calibrate = (Button) findViewById(R.id.calibrate);
 
 		etAmount = (EditText) findViewById(R.id.etAmount);
 		btnDecrease = (Button) findViewById(R.id.btnDecrease);
@@ -346,6 +348,13 @@ public class BluetoothChat extends Activity {
 
 					etAmount.setText(String.valueOf(level));
 				}
+			}
+		});
+
+		calibrate.setOnClickListener(new OnClickListener() {
+			public void onClick(View v) {
+				String message = "fce";
+				sendMessage(message);
 			}
 		});
 

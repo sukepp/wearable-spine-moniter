@@ -153,6 +153,8 @@
 
     <string name="search">Search Devices</string>
 
+    <string name="calibrate">Calibrate</string>
+
     <string name="check">检错模式</string>
 
     <string name="errorma">误比特率:</string>
